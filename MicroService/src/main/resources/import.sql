@@ -1,0 +1,2 @@
+INSERT INTO Compte (type ,iban,interet,frais, solde) VALUES ('Compte_courant', 'Fr5682453530098', 1.4,'gratuit', 2000);
+INSERT INTO Compte (type ,iban,interet,frais, solde) VALUES ('Compte_courant', 'Fr5682453530099', 1.4,'gratuit', 2000);
